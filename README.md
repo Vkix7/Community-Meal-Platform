@@ -3,9 +3,7 @@
 📌 Project Overview
 
 This project is a console-based C++ program that simulates the backend logic of a community meal platform.
-
 It is designed for hostel students and office workers who need affordable, home-cooked food from local home chefs.
-
 The project focuses only on computer programming concepts and does not include frontend, UI/UX, or database development.
 
 
